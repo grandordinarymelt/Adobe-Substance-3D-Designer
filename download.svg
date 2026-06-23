@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 56" role="img" aria-label="Download Download">
+  <defs>
+    <linearGradient id="btn" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#311b92"/>
+      <stop offset="100%" stop-color="#512da8"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="272" height="48" rx="24" fill="url(#btn)"/><rect x="220" y="4" width="56" height="48" rx="24" fill="#512da8" opacity="0.55"/>
+  <path d="M236 22h12v4h-12v8h-8V22h8z" fill="#ede7f6"/>
+  <text x="56" y="34" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Download</text>
+</svg>
